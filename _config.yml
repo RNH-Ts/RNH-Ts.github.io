@@ -1,6 +1,6 @@
 title: Rachel Hill-Tsarpelas 
 logo: "images/image.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:
   # About Me
 
 My journey to Data Analysis might not be the traditional route, but it definitely has been a very organic one. In every role I’ve held, I’ve been driven to go beyond the surface tasks and analyze how it fits in the context of the big picture, to gain greater insights and understanding.
@@ -28,7 +28,7 @@ Using data to uncover patterns, challenge assumptions, and contribute to a broad
 - **Power BI** for dashboarding and visualization  
 - Growing focus on **large language models (LLMs)** informed by my linguistics background
 
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/rachel-hill-data-analyst" >View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
