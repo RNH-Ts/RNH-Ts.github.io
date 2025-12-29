@@ -2,6 +2,8 @@ title: Rachel Hill-Tsarpelas
 logo: "images/image.png?raw=true"
 
 description: >
+  Data Analyst | Python • SQL • Power BI | Linguistics
+
   <h2>About Me</h2>
 
   <p>My journey to Data Analysis might not be the traditional route, but it definitely has been a very organic one. In every role I’ve held, I’ve been driven to go beyond the surface tasks and analyze how it fits in the context of the big picture, to gain greater insights and understanding.</p>
@@ -12,12 +14,12 @@ description: >
 
   <p>During my parental leave, I had time to reassess my career and understand where this natural analytical tendency was leading me. I made a conscious shift toward tech and data analytics. Learning to code was just another language at the end of the day. Using data to uncover patterns, challenge assumptions, and add it to the general understanding is where my strengths align. Moreover, my background positions me as a bridge between analysis and language, able to communicate complex processes and insights clearly across languages and formats.</p>
 
-
-<a href="www.linkedin.com/in/rachel-hill-data-analyst" >View My LinkedIn Profile</a>
+  <p><a href="https://www.linkedin.com/in/rachel-hill-data-analyst">View My LinkedIn Profile</a></p>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
 google_analytics: UA-000000-0
+
 
