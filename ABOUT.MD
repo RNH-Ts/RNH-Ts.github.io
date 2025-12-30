@@ -6,7 +6,7 @@ permalink: /about
 
 # About Me
 
-My journey to **Data Analysis** might not be the traditional route, but it definitely has been a very organic one. In every role I’ve held, I’ve been driven to go beyond the surface tasks and analyze how it fits in the context of the **big picture**, to gain greater insights and understanding.
+My journey to **Data Analysis** might not be the traditional route, but it definitely has been a very organic one. In every role I’ve held, I’ve been driven to go beyond surface tasks and analyze how they fit in the context of the **big picture**, to gain greater insights and understanding.
 
 ## From Language Teaching to Systems Thinking
 
