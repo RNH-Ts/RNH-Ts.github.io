@@ -12,7 +12,7 @@ My journey to **Data Analysis** might not be the traditional route, but it defin
 
 I began my career teaching English, but immediately felt hemmed in by prestige and prescriptivism. English is used all over the world in many different but equally valid varieties. This sparked a deeper curiosity in me about language, not as a set of rules to follow, but as a system and especially multiple languages as a system within one person. 
 
-That curiosity led me to a **Master’s degree in European Linguistics at the University of Freiburg**, where in addition to my studies, I began work as a research assistant with large English Corpora. Analyzing real world language data, which had no problem contradicting textbook rules, showed me first hand what a powerful tool large data sets can be in reflecting reality.
+That curiosity led me to a **Master’s degree in European Linguistics** at the University of Freiburg, where in addition to my studies, I began work as a research assistant with large English Corpora. Analyzing real world language data, which had no problem contradicting textbook rules, showed me first hand what a powerful tool large data sets can be in reflecting reality.
 
 ## From Projects to Data-Driven Decisions
 
