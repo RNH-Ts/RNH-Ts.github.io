@@ -21,7 +21,7 @@ This project investigates employee attrition with the goal of identifying patter
 - Summarized key variables and observed class imbalance (~16% attrition)
 
 **Visual — Summary of Attrition Imbalance**  
-![Day 1 Summary](images/Attrition_imbalance.png)
+![Day 1 Summary](images/Attrition_Pie_chart.png)
 
 ---
 
