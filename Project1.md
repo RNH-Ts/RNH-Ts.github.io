@@ -39,15 +39,9 @@ This project investigates employee attrition with the goal of identifying patter
 *Attrition vs Job Role* 
 ![Attrition vs Job Role](images/Attrition_JobRoles.png)  
 
----
-
-**Correlation Maps — Day 2/3**  
 
 *Linear correlation — no strong relationships* 
 ![Linear Correlation](images/Correlation_Heatmap_linear.png)
-
-*ML-informed correlation — key features highlighted*
-![ML-based Correlation](images/Correlation_ML.png) 
 
 ---
 
@@ -62,8 +56,8 @@ This project investigates employee attrition with the goal of identifying patter
 *Random Forest Feature Importance* 
 ![Random Forest Features](images/Random_forest_features.png) 
 
-*WorkLifeStress vs Attrition* 
-![WorkLifeStress](images/FE_Attr_Stress.png) 
+*ML-informed correlation*
+![ML-based Correlation](images/Correlation_ML.png) 
 
 ---
 
