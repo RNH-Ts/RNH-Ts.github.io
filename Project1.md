@@ -21,7 +21,7 @@ This project investigates employee attrition with the goal of identifying patter
 - Summarized key variables and observed class imbalance (~16% attrition)
 
 **Visual — Summary of Attrition Imbalance**  
-![Day 1 Summary](master/images/Attrition_imbalance.png)
+![Day 1 Summary](images/Attrition_imbalance.png)
 
 ---
 
@@ -32,7 +32,7 @@ This project investigates employee attrition with the goal of identifying patter
 
 **Visuals — Day 2**  
 
-| ![Attrition vs Overtime](master/images/Overtime_Attrition.png) | ![Attrition vs Job Role](master/images/Attrition_JobRoles.png) |
+| ![Attrition vs Overtime](images/Overtime_Attrition.png) | ![Attrition vs Job Role](images/Attrition_JobRoles.png) |
 |:---:|:---:|
 | *Attrition vs Overtime* | *Attrition vs Job Role* |
 
@@ -40,7 +40,7 @@ This project investigates employee attrition with the goal of identifying patter
 
 **Correlation Maps — Day 2/3**  
 
-| ![Linear Correlation](master/images/Correlation_Heatmap_linear.png) | ![ML-based Correlation](master/images/Correlation_ML.png) |
+| ![Linear Correlation](images/Correlation_Heatmap_linear.png) | ![ML-based Correlation](images/Correlation_ML.png) |
 |:---:|:---:|
 | *Linear correlation — no strong relationships* | *ML-informed correlation — key features highlighted* |
 
@@ -54,7 +54,7 @@ This project investigates employee attrition with the goal of identifying patter
 
 **Visuals — Day 3**  
 
-| ![Random Forest Features](master/images/Random_forest_features.png) | ![WorkLifeStress](master/images/FE_Attr_Stress.png) |
+| ![Random Forest Features](images/Random_forest_features.png) | ![WorkLifeStress](images/FE_Attr_Stress.png) |
 |:---:|:---:|
 | *Random Forest Feature Importance* | *WorkLifeStress vs Attrition* |
 
