@@ -1,3 +1,57 @@
+# HR Attrition Analysis & Prediction
+**Rachel Hill-Tsarpelas** | Data Analyst Portfolio Project  
+
+## Project Overview
+This project investigates employee attrition with the goal of identifying patterns, risk factors, and actionable insights that can support HR decision-making. The analysis follows a structured, multi-day workflow covering data understanding, visualization-driven exploration, and machine learning modeling.
+
+---
+
+## Objectives
+1. Suggest hypotheses about the causes of observed employee attrition
+2. Assess assumptions on which statistical inference will be based
+3. Support the selection of appropriate statistical tools and techniques
+4. Provide a basis for further data collection or HR interventions
+
+---
+
+## Day 1 — Data Overview
+- Loaded dataset
+- Identified numeric/categorical columns
+- Checked for missing values
+- Summarized key variables and observed class imbalance (~16% attrition)
+
+## Day 2 — Exploratory Visualizations
+- Explored attrition patterns by demographic and work-related factors
+- Visuals indicate higher attrition for employees with overtime, younger age, or early career stage
+- Linear correlation insufficient, non-linear effects likely
+
+## Day 3 — Machine Learning
+- Models: Decision Tree, Logistic Regression, Random Forest
+- Random Forest performed best overall
+- Key features in Random Forest: WorkLifeStress, OverTime, MonthlyIncome, Income per Experience
+- Feature importance varies by model, confirming non-linear, multivariate relationships
+
+---
+
+## Key Takeaways
+- Attrition patterns differ between visual inspection and model-based analysis
+- Workload, career stage, and compensation are more predictive than department or demographics
+- Reducing overtime or addressing Work–Life Stress may help retain employees
+
+---
+
+## Dataset
+- Anonymized HR data including demographics, career, compensation, and work conditions  
+- [IBM HR Analytics Attrition Dataset on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
+
+---
+
+## Notes
+- Notebooks available in [GitHub project repository](https://github.com/<your-username>/<project-repo>)
+- Power BI dashboard planned to illustrate key insights
+
+
+
 ## This can be your internal website page / project page
 
 **Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
