@@ -47,9 +47,8 @@ This project investigates employee attrition with the goal of identifying patter
 ---
 
 ## Notes
-- Notebooks available in [GitHub project repository](https://github.com/<your-username>/<project-repo>)
+- Notebooks available in [GitHub project repository](https://github.com/RNH-Ts/hr-attrition-analysis>)
 - Power BI dashboard planned to illustrate key insights
-
 
 
 ## This can be your internal website page / project page
