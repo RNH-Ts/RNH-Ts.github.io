@@ -20,6 +20,163 @@ This project investigates employee attrition with the goal of identifying patter
 - Checked for missing values
 - Summarized key variables and observed class imbalance (~16% attrition)
 
+**Visual — Summary of Key Variables**  
+![Day 1 Summary](master/Images/day1_summary.png)
+
+---
+
+## Day 2 — Exploratory Visualizations
+- Explored attrition patterns by demographic and work-related factors
+- Visuals indicate higher attrition for employees with overtime, younger age, or early career stage
+- Linear correlation insufficient, non-linear effects likely
+
+**Visuals — Day 2**  
+
+| ![Attrition vs Overtime](master/Images/attrition_overtime.png) | ![Attrition vs Age](master/Images/attrition_age.png) |
+|:---:|:---:|
+| *Attrition vs Overtime* | *Attrition vs Age / Career Stage* |
+
+---
+
+## Day 3 — Machine Learning
+- Models: Decision Tree, Logistic Regression, Random Forest
+- Random Forest performed best overall
+- Key features in Random Forest: WorkLifeStress, OverTime, MonthlyIncome, Income per Experience
+- Feature importance varies by model, confirming non-linear, multivariate relationships
+
+**Visuals — Day 3**  
+
+| ![Random Forest Features](master/Images/random_forest_features.png) | ![WorkLifeStress](master/Images/worklifestress.png) | ![Predictions](master/Images/predictions.png) |
+|:---:|:---:|:---:|
+| *Random Forest Feature Importance* | *WorkLifeStress vs Attrition* | *Predicted vs Actual Attrition* |
+
+---
+
+## Key Takeaways
+- Attrition patterns differ between visual inspection and model-based analysis
+- Workload, career stage, and compensation are more predictive than department or demographics
+- Reducing overtime or addressing Work–Life Stress may help retain employees
+
+---
+
+## Dataset
+- Anonymized HR data including demographics, career, compensation, and work conditions  
+- [IBM HR Analytics Attrition Dataset on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
+
+---
+
+## Notes
+- Notebooks available in [GitHub project repository](https://github.com/RNH-Ts/hr-attrition-analysis)
+- Power BI dashboard planned to illustrate key insights
+
+
+
+
+
+
+# HR Attrition Analysis & Prediction
+**Rachel Hill-Tsarpelas** | Data Analyst Portfolio Project  
+
+## Project Overview
+This project investigates employee attrition with the goal of identifying patterns, risk factors, and actionable insights that can support HR decision-making. The analysis follows a structured, multi-day workflow covering data understanding, visualization-driven exploration, and machine learning modeling.
+
+---
+
+## Objectives
+1. Suggest hypotheses about the causes of observed employee attrition
+2. Assess assumptions on which statistical inference will be based
+3. Support the selection of appropriate statistical tools and techniques
+4. Provide a basis for further data collection or HR interventions
+
+---
+
+## Day 1 — Data Overview
+- Loaded dataset
+- Identified numeric/categorical columns
+- Checked for missing values
+- Summarized key variables and observed class imbalance (~16% attrition)
+
+**Visual — Summary of Key Variables**  
+![Day 1 Summary](master/Images/day1_summary.png)
+
+---
+
+## Day 2 — Exploratory Visualizations
+- Explored attrition patterns by demographic and work-related factors
+- Visuals indicate higher attrition for employees with overtime, younger age, or early career stage
+- Linear correlation insufficient, non-linear effects likely
+
+**Visual — Attrition vs Overtime**  
+![Attrition vs Overtime](master/Images/attrition_overtime.png)
+
+**Visual — Attrition vs Age / Career Stage**  
+![Attrition vs Age](master/Images/attrition_age.png)
+
+---
+
+## Day 3 — Machine Learning
+- Models: Decision Tree, Logistic Regression, Random Forest
+- Random Forest performed best overall
+- Key features in Random Forest: WorkLifeStress, OverTime, MonthlyIncome, Income per Experience
+- Feature importance varies by model, confirming non-linear, multivariate relationships
+
+**Visual — Random Forest Feature Importance**  
+![Random Forest Features](master/Images/random_forest_features.png)
+
+**Visual — WorkLifeStress vs Attrition**  
+![WorkLifeStress](master/Images/worklifestress.png)
+
+**Visual — Predicted vs Actual Attrition**  
+![Predictions](master/Images/predictions.png)
+
+---
+
+## Key Takeaways
+- Attrition patterns differ between visual inspection and model-based analysis
+- Workload, career stage, and compensation are more predictive than department or demographics
+- Reducing overtime or addressing Work–Life Stress may help retain employees
+
+---
+
+## Dataset
+- Anonymized HR data including demographics, career, compensation, and work conditions  
+- [IBM HR Analytics Attrition Dataset on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
+
+---
+
+## Notes
+- Notebooks available in [GitHub project repository](https://github.com/RNH-Ts/hr-attrition-analysis)
+- Power BI dashboard planned to illustrate key insights
+
+---
+
+
+
+
+
+
+# HR Attrition Analysis & Prediction
+**Rachel Hill-Tsarpelas** | Data Analyst Portfolio Project  
+
+## Project Overview
+This project investigates employee attrition with the goal of identifying patterns, risk factors, and actionable insights that can support HR decision-making. The analysis follows a structured, multi-day workflow covering data understanding, visualization-driven exploration, and machine learning modeling.
+
+---
+
+## Objectives
+1. Suggest hypotheses about the causes of observed employee attrition
+2. Assess assumptions on which statistical inference will be based
+3. Support the selection of appropriate statistical tools and techniques
+4. Provide a basis for further data collection or HR interventions
+
+---
+
+## Day 1 — Data Overview
+- Loaded dataset
+- Identified numeric/categorical columns
+- Checked for missing values
+- Summarized key variables and observed class imbalance (~16% attrition)
+
 ## Day 2 — Exploratory Visualizations
 - Explored attrition patterns by demographic and work-related factors
 - Visuals indicate higher attrition for employees with overtime, younger age, or early career stage
@@ -49,6 +206,9 @@ This project investigates employee attrition with the goal of identifying patter
 ## Notes
 - Notebooks available in [GitHub project repository](https://github.com/RNH-Ts/hr-attrition-analysis>)
 - Power BI dashboard planned to illustrate key insights
+
+
+
 
 
 ## This can be your internal website page / project page
