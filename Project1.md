@@ -35,8 +35,9 @@ This project investigates employee attrition with the goal of identifying patter
 *Attrition vs Overtime* 
 ![Attrition vs Overtime](images/Overtime_Attrition.png) 
 
-![Attrition vs Job Role](images/Attrition_JobRoles.png)  
+
 *Attrition vs Job Role* 
+![Attrition vs Job Role](images/Attrition_JobRoles.png)  
 
 ---
 
