@@ -33,15 +33,15 @@ This project investigates employee attrition with the goal of identifying patter
 **Visuals — Day 2**  
 
 *Attrition vs Overtime* 
-![Attrition vs Overtime](images/Overtime_Attrition.png) 
+[![Attrition vs Overtime](images/Overtime_Attrition.png)](images/Overtime_Attrition.png) 
 
 
 *Attrition vs Job Role* 
-![Attrition vs Job Role](images/Attrition_JobRoles.png)  
+[![Attrition vs Job Role](images/Attrition_JobRoles.png)](images/Attrition_JobRoles.png)  
 
 
 *Linear correlation — no strong relationships* 
-![Linear Correlation](images/Correlation_Heatmap_linear.png)
+[![Linear Correlation](images/Correlation_Heatmap_linear.png)](images/Correlation_Heatmap_linear.png)
 
 ---
 
@@ -54,10 +54,10 @@ This project investigates employee attrition with the goal of identifying patter
 **Visuals — Day 3**  
 
 *Random Forest Feature Importance* 
-![Random Forest Features](images/Random_forest_features.png) 
+[![Random Forest Features](images/Random_forest_features.png)](images/Random_forest_features.png) 
 
 *ML-informed correlation*
-![ML-based Correlation](images/Correlation_ML.png) 
+[![ML-based Correlation](images/Correlation_ML.png)](images/Correlation_ML.png) 
 
 ---
 
@@ -70,18 +70,18 @@ This project investigates employee attrition with the goal of identifying patter
 ## Power BI Insights
 
 *Overall Dashboard View* 
-![P_BI_Dashboard](images/ibm_RNH_1.png) 
+[![P_BI_Dashboard](images/ibm_RNH_1.png)](images/ibm_RNH_1.png) 
 
 This view presents the full employee population and establishes the baseline attrition patterns. Attrition is visibly higher among employees working overtime across all departments, making workload a dominant operational risk factor. High work-life stress clusters strongly among employees who leave, while income levels remain widely distributed, suggesting compensation alone does not explain attrition. Job role comparisons show substantial variation in attrition rates, but roles with larger headcounts contribute most to overall attrition impact.
 
 *Gender-Filtered View* 
-![P_BI_Dashboard_F](images/ibm_RNH_2.png) 
+[![P_BI_Dashboard_F](images/ibm_RNH_2.png)](images/ibm_RNH_2.png) 
 
 
 When filtering by gender, female, the overall attrition rate changes, but the underlying patterns remain consistent. Overtime continues to be associated with markedly higher attrition, and high work-life stress remains concentrated among employees who leave. This indicates that the main attrition drivers observed in the overall view are not gender-specific but structurally present across the workforce.
 
 'Sales-Filtered View*
-![P_BI_Dashboard_S](images/ibm_RNH_3.png) 
+[![P_BI_Dashboard_S](images/ibm_RNH_3.png))(images/ibm_RNH_3.png) 
 
 Focusing on Sales roles reveals a sharper concentration of attrition risk. Overtime-related attrition increases substantially compared to the overall population, and high work-life stress is more tightly clustered among departing employees. While Sales roles display higher attrition rates, the dashboard shows that this risk is strongly linked to workload conditions rather than role identity alone.
 
