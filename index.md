@@ -5,7 +5,9 @@
 ### Personal Projects
 
 [Attrition Analysis](/Project1)
-!(https://raw.githubusercontent.com/RNH-Ts/hr-attrition-analysis/blob/main/ibm_RNH_1.png)
+
+![HR Attrition Dashboard](https://raw.githubusercontent.com/RNH-Ts/hr-attrition-analysis/main/ibm_RNH_1.png)
+
 
 ---
 [Project 2 Title](/Project2)
