@@ -6,6 +6,14 @@ This project investigates employee attrition with the goal of identifying patter
 
 ---
 
+## What This Project Demonstrates
+
+- End-to-end data analysis workflow: exploratory analysis, predictive modeling, and business-facing visualization
+- Ability to distinguish between visually strong patterns and model-supported drivers of attrition
+- Translation of technical findings into actionable HR insights using Power BI
+
+---
+
 ## Objectives
 1. Suggest hypotheses about the causes of observed employee attrition
 2. Assess assumptions on which statistical inference will be based
