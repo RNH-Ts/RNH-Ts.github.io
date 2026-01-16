@@ -114,7 +114,6 @@ Across all dashboard views, filtering changes the scale of attrition but not its
 
 ## Notes
 - Notebooks available in [GitHub project repository](https://github.com/RNH-Ts/hr-attrition-analysis)
-- Power BI dashboard planned to illustrate key insights
 
 
 
