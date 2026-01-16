@@ -14,7 +14,7 @@ This project investigates employee attrition with the goal of identifying patter
 
 ---
 
-## Day 1 — Data Overview
+## Part 1 — Data Overview
 - Loaded dataset
 - Identified numeric/categorical columns
 - Checked for missing values
@@ -25,12 +25,12 @@ This project investigates employee attrition with the goal of identifying patter
 
 ---
 
-## Day 2 — Exploratory Visualizations
+## Part 2 — Exploratory Visualizations
 - Explored attrition patterns by demographic and work-related factors
 - Visuals indicate higher attrition for employees with overtime, younger age, or early career stage
 - Linear correlation insufficient, non-linear effects likely
 
-**Visuals — Day 2**  
+**Visuals  — 2**  
 
 *Attrition vs Overtime* 
 [![Attrition vs Overtime](images/Overtime_Attrition.png)](images/Overtime_Attrition.png) 
@@ -45,13 +45,13 @@ This project investigates employee attrition with the goal of identifying patter
 
 ---
 
-## Day 3 — Machine Learning
+## Part 3 — Machine Learning
 - Models: Decision Tree, Logistic Regression, Random Forest
 - Random Forest performed best overall
 - Key features in Random Forest: WorkLifeStress, OverTime, MonthlyIncome, Income per Experience
 - Feature importance varies by model, confirming non-linear, multivariate relationships
 
-**Visuals — Day 3**  
+**Visuals — 3**  
 
 *Random Forest Feature Importance* 
 [![Random Forest Features](images/Random_forest_features.png)](images/Random_forest_features.png) 
@@ -68,25 +68,29 @@ This project investigates employee attrition with the goal of identifying patter
 
 ---
 
-## Power BI Insights
+## Part 4  — Power BI Insights
+**Overall Dashboard** 
 
 *Overall Dashboard View*  
 [![P_BI_Dashboard](images/ibm_RNH_1.png)](images/ibm_RNH_1.png)
 
 This dashboard provides an operational view of attrition across the full employee population. Attrition is consistently higher among employees working overtime, making workload the most visible risk factor across departments. High work–life stress clusters strongly among employees who leave, while income remains widely distributed, indicating that compensation alone does not explain attrition. Job role comparisons show substantial variation in attrition rates, but roles with larger headcounts contribute most to overall attrition impact.
 
+**Dashboard Slice - Female** 
+
 *Gender-Filtered View (Female)*  
 [![P_BI_Dashboard_F](images/ibm_RNH_2.png)](images/ibm_RNH_2.png)
 
 Filtering by gender alters overall attrition rates but preserves the dominant structure: overtime and work–life stress remain the primary drivers of employee exits. Overall attrition is moderately higher among male employees (~17%) than female employees (~14.8%), but role-level patterns reveal more important distinctions. Sales Representatives and Human Resources roles exhibit disproportionately high attrition relative to headcount for both genders. Among female employees, attrition within both Sales Representatives (~45%) and Human Resources (~40%) approaches, while among male employees, attrition reaches ~40% in Sales Representatives but is notably lower in Human Resources (~26%). These differences suggest that while certain roles carry elevated attrition risk across genders, the magnitude of that risk varies by gender–role combination rather than gender alone.
 
+**Dashboard - Sales** 
 
 *Sales-Filtered View*  
 [![P_BI_Dashboard_S](images/ibm_RNH_3.png)](images/ibm_RNH_3.png)
 
 Within Sales roles, attrition risk becomes more concentrated. Overtime-related attrition increases substantially, and high work–life stress is tightly associated with employee exits, indicating that elevated attrition in Sales is driven primarily by workload conditions rather than role identity alone.
 
-### Cross-View Summary
+** Cross-View Summary** 
 
 Across all dashboard views, filtering changes the scale of attrition but not its drivers. Overtime and work–life stress consistently emerge as the strongest contributors, while department, role, and demographic breakdowns provide contextual detail, (like gender influencing attrition magnitude within specific roles) rather than independent explanations. These findings align with the statistical and machine learning results, reinforcing that attrition in this dataset is primarily driven by workload intensity, work–life stress, and compensation relative to experience.
 
