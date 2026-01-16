@@ -6,8 +6,7 @@
 
 [Attrition Analysis](/Project1)
 
-![HR Attrition Dashboard](https://raw.githubusercontent.com/RNH-Ts/hr-attrition-analysis/main/ibm_RNH_1.png)
-
+![HR Attrition Dashboard](images/ibm_RNH_1.png)
 
 ---
 [Project 2 Title](/Project2)
