@@ -67,34 +67,7 @@ This project investigates employee attrition with the goal of identifying patter
 - Reducing overtime or addressing Work–Life Stress may help retain employees
 
 ---
-## Power BI Insights
 
-*Overall Dashboard View* 
-[![P_BI_Dashboard](images/ibm_RNH_1.png)](images/ibm_RNH_1.png) 
-
-This view presents the full employee population and establishes the baseline attrition patterns. Attrition is visibly higher among employees working overtime across all departments, making workload a dominant operational risk factor. High work-life stress clusters strongly among employees who leave, while income levels remain widely distributed, suggesting compensation alone does not explain attrition. Job role comparisons show substantial variation in attrition rates, but roles with larger headcounts contribute most to overall attrition impact.
-
-*Gender-Filtered View* 
-[![P_BI_Dashboard_F](images/ibm_RNH_2.png)](images/ibm_RNH_2.png) 
-
-
-When filtering by gender, female, the overall attrition rate changes, but the underlying patterns remain consistent. Overtime continues to be associated with markedly higher attrition, and high work-life stress remains concentrated among employees who leave. This indicates that the main attrition drivers observed in the overall view are not gender-specific but structurally present across the workforce.
-
-'Sales-Filtered View*
-[![P_BI_Dashboard_S](images/ibm_RNH_3.png))(images/ibm_RNH_3.png) 
-
-Focusing on Sales roles reveals a sharper concentration of attrition risk. Overtime-related attrition increases substantially compared to the overall population, and high work-life stress is more tightly clustered among departing employees. While Sales roles display higher attrition rates, the dashboard shows that this risk is strongly linked to workload conditions rather than role identity alone.
-
-Summary Across Views
-
-Across the overall, gender-filtered, and Sales-filtered views, filtering alters the scale of attrition but not its structure. Overtime and work-life stress consistently emerge as the dominant factors, while role, department, and demographic breakdowns provide context rather than independent explanations. These dashboard findings align with the broader project analysis by showing that attrition is driven primarily by workload and career-stage conditions rather than isolated demographic characteristics.
-
-- Employees working overtime exhibit substantially higher attrition rates than non-overtime employees across all departments, making overtime the strongest operational risk factor visible in the dashboard.
-- High work-life stress is strongly associated with attrition, with departing employees clustering at higher stress levels regardless of monthly income.
-- Job roles differ markedly in attrition rates, but roles combining elevated attrition with larger headcounts (not just high percentages) account for the greatest overall impact.
-- Attrition patterns vary by marital status within stress bands, with single employees showing higher attrition under high stress compared to married employees.
-- Department-level attrition differences are primarily driven by overtime presence rather than department identity alone.
----
 ## Power BI Insights
 
 *Overall Dashboard View*  
@@ -117,8 +90,8 @@ Within Sales roles, attrition risk becomes more concentrated. Overtime-related a
 
 Across all dashboard views, filtering changes the scale of attrition but not its drivers. Overtime and work–life stress consistently emerge as the strongest contributors, while department, role, and demographic breakdowns provide contextual detail, (like gender influencing attrition magnitude within specific roles) rather than independent explanations. These findings align with the statistical and machine learning results, reinforcing that attrition in this dataset is primarily driven by workload intensity, work–life stress, and compensation relative to experience.
 
-
 ---
+
 **Actionable HR Implications**
 
 - **Overtime-focused interventions:** Use the dashboard to identify roles and teams where overtime coincides with high attrition and prioritize workload rebalancing, staffing adjustments, or overtime caps in these areas.
