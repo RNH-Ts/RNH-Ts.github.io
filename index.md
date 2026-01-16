@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Personal Projects
 
-[Project 1 Title](/Project1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Attrition Analysis](/Project1)
+!(https://github.com/RNH-Ts/hr-attrition-analysis/blob/main/ibm_RNH_1.png)
 
 ---
 [Project 2 Title](/Project2)
@@ -21,9 +21,7 @@
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+  
 
 ---
 
