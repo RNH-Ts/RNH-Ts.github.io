@@ -100,12 +100,13 @@ Across the overall, gender-filtered, and Sales-filtered views, filtering alters 
 *Overall Dashboard View*  
 [![P_BI_Dashboard](images/ibm_RNH_1.png)](images/ibm_RNH_1.png)
 
-This dashboard provides an operational view of attrition across the full employee population. Attrition is consistently higher among employees working overtime, making workload the most visible risk factor across departments. High work–life stress clusters strongly among employees who leave, while income remains widely distributed, indicating that compensation alone does not explain attrition. Differences by job role are present, but overall attrition impact is driven by roles with both elevated attrition and large headcounts.
+This dashboard provides an operational view of attrition across the full employee population. Attrition is consistently higher among employees working overtime, making workload the most visible risk factor across departments. High work–life stress clusters strongly among employees who leave, while income remains widely distributed, indicating that compensation alone does not explain attrition. Job role comparisons show substantial variation in attrition rates, but roles with larger headcounts contribute most to overall attrition impact.
 
 *Gender-Filtered View (Female)*  
 [![P_BI_Dashboard_F](images/ibm_RNH_2.png)](images/ibm_RNH_2.png)
 
-Filtering by gender alters overall attrition rates but not the underlying structure. Overtime and work–life stress remain the dominant drivers, suggesting that the primary attrition mechanisms observed are structural rather than gender-specific.
+Filtering by gender alters overall attrition rates but preserves the dominant structure: overtime and work–life stress remain the primary drivers of employee exits. Overall attrition is moderately higher among male employees (~17%) than female employees (~14.8%), but role-level patterns reveal more important distinctions. Sales Representatives and Human Resources roles exhibit disproportionately high attrition relative to headcount for both genders. Among female employees, attrition within both Sales Representatives (~45%) and Human Resources (~40%) approaches, while among male employees, attrition reaches ~40% in Sales Representatives but is notably lower in Human Resources (~26%). These differences suggest that while certain roles carry elevated attrition risk across genders, the magnitude of that risk varies by gender–role combination rather than gender alone.
+
 
 *Sales-Filtered View*  
 [![P_BI_Dashboard_S](images/ibm_RNH_3.png)](images/ibm_RNH_3.png)
@@ -114,8 +115,17 @@ Within Sales roles, attrition risk becomes more concentrated. Overtime-related a
 
 ### Cross-View Summary
 
-Across all dashboard views, filtering changes the scale of attrition but not its drivers. Overtime and work–life stress consistently emerge as the strongest contributors, while department, role, and demographic breakdowns provide contextual detail rather than independent explanations. These findings align with the statistical and machine learning results, reinforcing that attrition in this dataset is primarily driven by workload and career-stage conditions.
+Across all dashboard views, filtering changes the scale of attrition but not its drivers. Overtime and work–life stress consistently emerge as the strongest contributors, while department, role, and demographic breakdowns provide contextual detail, (like gender influencing attrition magnitude within specific roles) rather than independent explanations. These findings align with the statistical and machine learning results, reinforcing that attrition in this dataset is primarily driven by workload intensity, work–life stress, and compensation relative to experience.
 
+
+---
+**Actionable HR Implications**
+
+- **Overtime-focused interventions:** Use the dashboard to identify roles and teams where overtime coincides with high attrition and prioritize workload rebalancing, staffing adjustments, or overtime caps in these areas.
+- **Targeted work–life stress mitigation:** Direct retention programs toward employees and roles exhibiting elevated work–life stress rather than applying uniform, organization-wide initiatives.
+- **Headcount-adjusted prioritization:** Focus retention efforts on roles that combine high attrition rates with large employee populations to maximize organizational impact.
+- **Role-specific retention strategies:** Treat Sales and Human Resources roles as priority segments for intervention, while tailoring actions by gender and role where attrition magnitude differs.
+- **Monitoring early warning signals:** Use changes in overtime and stress distributions over time as leading indicators to evaluate whether retention initiatives are having measurable effects.
 
 ---
 
