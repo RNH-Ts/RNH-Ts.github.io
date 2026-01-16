@@ -9,19 +9,13 @@
 ![HR Attrition Dashboard](images/ibm_RNH_1.png)
 
 ---
-[Project 2 Title](/Project2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[LLM LINGUISTIC EVALUATION](/Project2)
+
+![Coming Soon]<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
   
 
 ---
