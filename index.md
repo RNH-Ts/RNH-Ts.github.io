@@ -10,7 +10,7 @@
 
 ---
 
-[LLM LINGUISTIC EVALUATION](/Project2)
+[Logistic Open Data project](/Project2)
 
 ![Coming Soon]<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
