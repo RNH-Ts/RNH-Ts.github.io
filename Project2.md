@@ -1,7 +1,6 @@
-## LLM LINGUISTIC EVALUATION
+## Logistic Open Data project
 
-**Evaluation of LLMs with Deutsch–Englisch Code-Switching, False Friends und Partial-
-Translation Errors.**
+**SQL-basierte Aufbereitung logistischer Open-Data-Bestände und Excel-gestütztes KPI-Reporting zur Analyse von Durchlaufzeiten, Liefertreue und operativen Engpässen.**
 Currently in progress. Updates to come.
 
 ---
