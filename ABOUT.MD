@@ -4,25 +4,31 @@ title: About Me
 permalink: /about
 ---
 
-# About Me
+# About Me (EN)
+# [English text]
 
-My journey to Data Analysis might not be the traditional route, but but it’s been one driven by curiosity that has developed organically. In every role I’ve held, I’ve been driven to go beyond surface tasks and analyze how they fit in the context of the big picture, to gain greater insights and understanding.
+I am a Data Analyst with a strong focus on data preparation, analysis, and reporting, using Python, SQL, Excel, and Power BI to support data-driven decision-making. My work centers on transforming complex, messy datasets into clear insights and management-ready reports for non-technical stakeholders.
 
-## From Language Teaching to Systems Thinking
+I bring a research-oriented mindset shaped by my academic background in European Linguistics and my professional experience in publishing and project coordination. Across these roles, I worked extensively with structured and unstructured data, quality assurance, documentation, and empirical analysis; skills that translate directly into reliable and transparent analytical work.
 
-I began my career teaching English, but at times felt hemmed in by prestige and prescriptivism. English is used all over the world in many different, but equally valid, varieties. This sparked a deeper curiosity in me about language, not as a set of rules one SHOULD follow, but as a system in and of itself, functioning just fine without our opinions. Especially the idea of multiple languages as one system within a person, fascinated me. 
+In recent projects, I analyzed HR data to explore patterns in employee attrition and translated results into dashboards and written reports. I place strong emphasis on clarity, reproducibility, and communicating results reliably in English and German.
 
-That curiosity led me to a Master’s degree in European Linguistics at the University of Freiburg, where in addition to my studies, I began work as a research assistant with large English Corpora. Analyzing real world language data, which had no problem contradicting textbook rules, showed me first hand what a powerful tool large data sets can be in reflecting reality.
+I am interested in analytical roles that support decision-making through reporting and KPIs, particularly in areas such as operations, logistics, people analytics, research, and business intelligence.
 
-## From Projects to Data-Driven Decisions
 
-After my studies, I worked as an editor at Hueber, managing big textbook projects with lots of moving parts, actors and various deadlines. While I thrived in the complexity of project management, I missed the data-driven analysis I had grown to love. Too often, decisions were guided by preference over evidence.
+––––––––––––––
 
-## Transition into Data Analytics
+# Über mich (DE)
+# [German version]
 
-During my parental leave, I had time to reassess my career and understand where this natural analytical tendency was leading me. I made a conscious shift toward tech and data analytics. Learning to code was just another language at the end of the day. Using data to uncover patterns, challenge assumptions and add it to the general understanding is where my strengths align. 
+ch arbeite als Data Analyst mit Schwerpunkt auf Datenaufbereitung, Analyse und Reporting. Dabei nutze ich Python, SQL, Excel und Power BI, um Entscheidungsprozesse auf Basis von Daten zu unterstützen. Meine Arbeit konzentriert sich darauf, komplexe und unübersichtliche Datensätze in nachvollziehbare Analysen und aussagekräftige Berichte für nicht technische Zielgruppen zu überführen.
 
-This analytical mindset, honed through linguistics and project management, is exactly what drives my approach to data analysis today. My background positions me as a bridge between analysis and language, able to communicate complex processes and insights clearly across languages and formats. My skill set includes Python-based data analysis in Jupyter Notebooks, SQL querying, Power BI dashboarding, and a growing interest in large language models informed by my linguistics background.
+Mein analytischer Ansatz ist geprägt durch meinen akademischen Hintergrund in Europäischer Linguistik sowie meine berufliche Erfahrung im Verlagswesen und in der Projektkoordination. In diesen Tätigkeiten habe ich intensiv mit strukturierten und unstrukturierten Daten, Qualitätssicherung, Dokumentation und empirischer Analyse gearbeitet. Diese Kompetenzen spiegeln sich direkt in sorgfältiger und transparenter Analysearbeit wider.
+
+In aktuellen Projekten habe ich HR-Daten analysiert, um Muster im Bereich Mitarbeiterfluktuation zu untersuchen, und die Ergebnisse in Dashboards und schriftlichen Berichten aufbereitet. Dabei lege ich besonderen Wert auf Klarheit, Reproduzierbarkeit und eine verlässliche Kommunikation der Ergebnisse auf Deutsch und Englisch.
+
+Ich interessiere mich für analytische Rollen, die Entscheidungsprozesse durch Reporting und Kennzahlen unterstützen, insbesondere in den Bereichen Operations, Logistik, People Analytics, Forschung sowie Business Intelligence.
+
 
 
 ---
