@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 # About Me (EN)
-# [English text]
+
 
 I am a Data Analyst focused on data preparation, analysis, and reporting, using Python, SQL, Excel, and Power BI to support data-driven decision-making. My work centers on transforming complex, messy datasets into clear insights and management-ready reports for non-technical stakeholders.
 
@@ -21,7 +21,7 @@ I am interested in analytical roles that support decision-making through reporti
 ––––––––––––––
 
 # Über mich (DE)
-# [German version]
+
 
 Ich bin Data Analyst mit Schwerpunkt auf Datenaufbereitung, Analyse und Reporting und arbeite mit Python, SQL, Excel und Power BI, um datenbasierte Entscheidungsprozesse zu unterstützen. Mein Fokus liegt darauf, komplexe und unstrukturierte Datensätze in klare Erkenntnisse und managementtaugliche Reports für nicht-technische Stakeholder zu übersetzen.
 
@@ -35,7 +35,7 @@ Ich interessiere mich für analytische Positionen, die Entscheidungsprozesse dur
 
 ---
 
-Contact Me
+# Contact Me
 I’m happy to connect about data analytics, reporting, or related projects.
 
 Via LinkedIn: linkedin.com/in/rachel-hill-data-analyst
