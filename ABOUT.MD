@@ -33,6 +33,14 @@ In aktuellen Projekten analysierte ich HR-Daten, um Muster in der Mitarbeiterflu
 
 Ich interessiere mich für analytische Positionen, die Entscheidungsprozesse durch Reporting und KPIs unterstützen, insbesondere in den Bereichen Operations, Logistik, People Analytics, Research und Business Intelligence.
 
+---
 
+Contact Me
+I’m happy to connect about data analytics, reporting, or related projects.
+
+Via LinkedIn: linkedin.com/in/rachel-hill-data-analyst
+
+<form action="http://formspree.io/english.rhill@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
 
 ---
+
