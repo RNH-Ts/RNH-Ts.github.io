@@ -38,8 +38,7 @@ Ich interessiere mich für analytische Positionen, die Entscheidungsprozesse dur
 # Contact Me
 I’m happy to connect about data analytics, reporting, or related projects.
 
-Via LinkedIn: linkedin.com/in/rachel-hill-data-analyst
-Xing: xing.com/profile/Rachel_HillTsarpelas
-
+Via LinkedIn: <p><a href="https://www.linkedin.com/in/rachel-hill-data-analyst">View My LinkedIn Profile</a></p>
+Via Xing: <p><a href="https://www.xing.com/profile/Rachel_HillTsarpelas">View My Xing Profile</a></p>
 ---
 
