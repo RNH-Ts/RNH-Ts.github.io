@@ -37,8 +37,6 @@ Ich interessiere mich für analytische Positionen, die Entscheidungsprozesse dur
 
 ## Get in touch
 
-I’m happy to connect around data analytics, reporting, and analytical projects, especially in areas like operations, business intelligence, or people analytics.
-
 - **LinkedIn:** [linkedin.com/in/rachel-hill-data-analyst](https://www.linkedin.com/in/rachel-hill-data-analyst)
 - **XING:** [xing.com/profile/Rachel_HillTsarpelas](https://www.xing.com/profile/Rachel_HillTsarpelas)
 
