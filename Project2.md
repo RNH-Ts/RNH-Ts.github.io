@@ -1,10 +1,54 @@
-## Quick Excel Dashbaord
-**As I continue my SQL and Excel personal project, I'm including a placeholder here to simply display my excel pivot tables and dashboard abilities. This was a one hour project, to take a simple sheet from cleaning to tables, to graphs and then KPIS. Nothing fancy. Just the basics.(( 
 
-**(SQL-basierte Aufbereitung logistischer Open-Data-Bestände und Excel-gestütztes KPI-Reporting zur Analyse von Durchlaufzeiten, Liefertreue und operativen Engpässen. Currently in progress. Updates to come.)**
-
----
-### 1. 
-
+**Look what one hour of Excel can do!**  
+This simple placeholder project takes a raw dataset, cleans it, builds pivot tables, graphs, and KPIs, and wraps it all into a compact dashboard. Nothing fancy. Just the basics. 
 
 ---
+
+### Bike Sales Dashboard Project Highlights
+
+- **Pivot Tables:** segment customer data dynamically  
+- **Dashboards:** consolidate tables and charts for quick insight  
+- **KPIs:** summarize key metrics to support business decisions
+
+The analysis focused on questions such as:
+
+- Which income groups are more likely to purchase a bike?  
+- Does commute distance affect purchasing behavior?  
+- Are specific age groups stronger target segments?  
+- How do demographic factors shape buying patterns?  
+
+Through segmentation and KPI analysis, the dashboard highlights patterns in customer behavior and demonstrates how Excel can be used as a practical business intelligence tool.
+
+---
+
+### Screenshots
+1. **Dashboard Overview**  
+[![Dashboard](EXCEL_Scr/dashboard.jpg)](EXCEL_Scr/dashboard.jpg)  
+
+2. **Pivot Tables**  
+[![Pivot Tables](EXCEL_Scr/pivot_tables.jpg)](EXCEL_Scr/pivot_tables.jpg)  
+
+3. **Income vs Purchase Analysis**  
+[![Income vs Purchase](EXCEL_Scr/income_purchase.jpg)](EXCEL_Scr/income_purchase.jpg)  
+
+4. **Age vs Purchase Analysis**  
+[![Age vs Purchase](EXCEL_Scr/age_purchase.jpg)](EXCEL_Scr/age_purchase.jpg)  
+
+5. **Formulas / Calculations**  
+[![Formulas](EXCEL_Scr/formula.jpg)](EXCEL_Scr/formula.jpg)
+
+
+---
+
+### Dashboard Interactivity
+
+The dashboard includes interactive filters—by region, maritial status, or education that let viewers explore patterns dynamically. Using these filters shows how flexible Excel dashboards can adapt to different business questions, highlighting trends even in simple data sets. FOr instance in this set, the Europe and North America regions do differ quite noticeably from eahc other.
+
+---
+
+### Next Steps / Ongoing Work
+  
+SQL-basierte Aufbereitung logistischer Open-Data-Bestände und Excel-gestütztes KPI-Reporting zur Analyse von Durchlaufzeiten, Liefertreue und operativen Engpässen.  
+Currently in progress – updates to come.  
+
+
