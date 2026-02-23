@@ -23,19 +23,24 @@ Through segmentation and KPI analysis, the dashboard highlights patterns in cust
 
 ### Screenshots
 1. **Dashboard Overview**  
-[![Dashboard](EXCEL_Scr/dashboard.jpg)](EXCEL_Scr/dashboard.jpg)  
+[![Dashboard](EXCEL_Scr/dashboard.jpg)](EXCEL_Scr/dashboard.jpg)
+Dashboard Overview – Bike Sales Analysis
 
-2. **Pivot Tables**  
-[![Pivot Tables](EXCEL_Scr/pivot_tables.jpg)](EXCEL_Scr/pivot_tables.jpg)  
+3. **Pivot Tables**  
+[![Pivot Tables](EXCEL_Scr/pivot_tables.jpg)](EXCEL_Scr/pivot_tables.jpg)
+Example of pivot-based aggregation used to calculate KPIs.
 
-3. **Income vs Purchase Analysis**  
+5. **Income vs Purchase Analysis**  
 [![Income vs Purchase](EXCEL_Scr/income_purchase.jpg)](EXCEL_Scr/income_purchase.jpg)  
+Income segmentation shows stronger purchase behavior in mid-to-higher income brackets.
 
-4. **Age vs Purchase Analysis**  
-[![Age vs Purchase](EXCEL_Scr/age_purchase.jpg)](EXCEL_Scr/age_purchase.jpg)  
+6. **Age vs Purchase Analysis**  
+[![Age vs Purchase](EXCEL_Scr/age_purchase.jpg)](EXCEL_Scr/age_purchase.jpg)
+Age distirbution in bike purchases  
 
-5. **Formulas / Calculations**  
+7. **Formulas / Calculations**  
 [![Formulas](EXCEL_Scr/formula.jpg)](EXCEL_Scr/formula.jpg)
+Age groups were created using conditional logic in Excel to segment customers into analytical brackets (e.g., 18–30, 31–50, 51+).
 
 
 ---
