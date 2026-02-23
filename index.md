@@ -12,7 +12,7 @@
 
 [Project 2: Quick Excel Dashboard](/Project2)
 
-[![Excel Dashboard Thumbnail](images/dummy_thumbnail.jpg?raw=true)](EXCEL_Scr/dashboard.jpg)
+[![Dashboard](EXCEL_Scr/dashboard.jpg)](EXCEL_Scr/dashboard.jpg)  
 
 *Quick one-hour Excel project showcasing pivot tables, dashboards, and KPIs.*
 
