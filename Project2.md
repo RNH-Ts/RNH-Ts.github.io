@@ -42,7 +42,7 @@ Through segmentation and KPI analysis, the dashboard highlights patterns in cust
 
 ### Dashboard Interactivity
 
-The dashboard includes interactive filters—by region, maritial status, or education that let viewers explore patterns dynamically. Using these filters shows how flexible Excel dashboards can adapt to different business questions, highlighting trends even in simple data sets. FOr instance in this set, the Europe and North America regions do differ quite noticeably from eahc other.
+The dashboard includes interactive filters (region, maritial status, or education) that let viewers explore patterns dynamically. Using these filters shows how flexible Excel dashboards can adapt to different business questions, highlighting trends even in simple data sets. FOr instance in this set, the Europe and North America regions do differ quite noticeably from each other.
 
 ---
 
