@@ -47,7 +47,7 @@ Age groups were created using conditional logic in Excel to segment customers in
 
 ### Dashboard Interactivity
 
-The dashboard includes interactive filters (region, maritial status, or education) that let viewers explore patterns dynamically. Using these filters shows how flexible Excel dashboards can adapt to different business questions, highlighting trends even in simple data sets. FOr instance in this set, the Europe and North America regions do differ quite noticeably from each other.
+The dashboard includes interactive filters (region, maritial status, or education) that let viewers explore patterns dynamically. Using these filters shows how flexible Excel dashboards can adapt to different business questions, highlighting trends even in simple data sets. For instance, in this set, the Europe and North America regions do differ quite noticeably from each other.
 
 ---
 
