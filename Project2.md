@@ -57,8 +57,8 @@ SQL-basierte Aufbereitung logistischer Open-Data-Bestände und Excel-gestütztes
 
 
 ## Dataset
-- Excel File from Alex the Anlyst
-- [AlexTheAnalyst on Github](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) 
+Excel File from Alex the Analyst
+[AlexTheAnalyst on Github](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) 
 
 ---
 
