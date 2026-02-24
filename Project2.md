@@ -53,7 +53,17 @@ The dashboard includes interactive filters (region, maritial status, or educatio
 
 ### Next Steps / Ongoing Work
   
-SQL-basierte Aufbereitung logistischer Open-Data-Bestände und Excel-gestütztes KPI-Reporting zur Analyse von Durchlaufzeiten, Liefertreue und operativen Engpässen.  
-Currently in progress – updates to come.  
+SQL-basierte Aufbereitung logistischer Open-Data-Bestände und Excel-gestütztes KPI-Reporting zur Analyse von Durchlaufzeiten, Liefertreue und operativen Engpässen. Currently in progress – updates to come.   
+
+
+## Dataset
+- Excel File from Alex the Anlyst
+- [AlexTheAnalyst on Github](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) 
+
+---
+
+## Notes
+- Notebooks available in [GitHub project repository](https://github.com/RNH-Ts/Excel)
+
 
 
