@@ -22,7 +22,7 @@
 
 [![Project 3 Summary](images/DB_Dashboard.jpg)](images/DB_Dashboard.jpg)
 
-*Next project in progress – updates to come.*
+*Power Query and Power BI Report examining the financial impact in train delays*
   
 
 
