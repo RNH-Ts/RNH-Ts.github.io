@@ -72,7 +72,7 @@ The first page provides a broad operational view of delays across Germany.
 This page highlights how delays are distributed geographically and temporally, with a focus on identifying when and where performance deviates.
 
 ---
-![Page 1 Summary](images/DB_Dashboard.jpg)
+[![Page 1 Summary](images/DB_Dashboard.jpg)](images/DB_Dashboard.jpg)
 ---
 
 ### Page 2 — Business Impact Analysis
@@ -91,7 +91,7 @@ The second page focuses on translating operational delays into business impact.
 This page allows comparison between operational performance and financial impact, highlighting how different station types and train lines contribute to overall cost.
 
 ---
-![Page 2_Summary](images/DB_2_Dashboard.jpg)
+[![Page 2_Summary](images/DB_2_Dashboard.jpg)](images/DB_Dashboard.jpg)
 ---
 
 ## Key Insights
