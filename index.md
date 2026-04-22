@@ -6,7 +6,7 @@
 
 [Project 1: Attrition Analysis](/Project1)
 
-[![HR Attrition Dashboard](images/ibm_RNH_1.png)](images/ibm_RNH_1.png)
+[![HR Attrition Report](images/ibm_RNH_1.png)](images/ibm_RNH_1.png)
 
 ---
 
@@ -18,9 +18,9 @@
 
 ---
 
-[Project 3: Coming Soon](/Project3)
+[Project 3: Deutsche Bahn BI Report](/Project3)
 
-[![Coming Soon](images/dummy_thumbnail.jpg?raw=true)](images/dummy_thumbnail.jpg?raw=true)
+[![Project 3 Summary](images/DB_Dashboard.jpg)](images/DB_Dashboard.jpg)
 
 *Next project in progress – updates to come.*
   
