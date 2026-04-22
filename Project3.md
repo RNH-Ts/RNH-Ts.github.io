@@ -7,13 +7,13 @@
 
 This project analyzes train delay data from Deutsche Bahn for the period **08.07.2024 – 15.07.2024**, based on a dataset of **2,029,894 rows**. The data was sourced from Kaggle and represents train activity across Germany within a one-week timeframe.
 
-The core objective of this analysis was not only to examine delays across regions and time, but to extend the analysis by translating operational delay data into a **simulated financial estimate** using Power Query and Power BI. By doing so, the project shifts from descriptive analysis toward business-oriented decision support.
+The core objective of this analysis was not only to examine delays across regions and time, but to extend the analysis by translating operational delay data into a simulated financial estimate using Power Query and Power BI. By doing so, the project shifts from descriptive analysis toward business-oriented decision support.
 
 ---
 
 ## Objectives
 
-The analysis focuses on understanding delay patterns across geography, time, and operational structure. This includes evaluating punctuality, identifying high-impact delays, and assessing how delays distribute across stations, train categories, and time periods. A central goal of the project is to estimate the **financial implications of delays** using a simplified cost model.
+The analysis focuses on understanding delay patterns across geography, time, and operational structure. This includes evaluating punctuality, identifying high-impact delays, and assessing how delays distribute across stations, train categories, and time periods. A central goal of the project is to estimate the financial implications of delays using a simplified cost model.
 
 ---
 
@@ -23,13 +23,13 @@ The dataset required extensive preparation before analysis. Column names were cl
 
 Missing values were handled selectively based on their analytical relevance. Records with missing timestamps, particularly in arrival-related fields, were removed when they prevented meaningful delay calculations. Other fields, such as delay causes, were retained despite being largely incomplete (approximately 80% missing), as they may still provide limited contextual value.
 
-Data types were carefully reviewed and corrected, including date, time, and numeric fields. Several conditional columns were created to support later analysis, including **Valid Arrivals**, **Delay Change (min)**, and binary indicators for **Punctuality (Arrival and Departure)**.
+Data types were carefully reviewed and corrected, including date, time, and numeric fields. Several conditional columns were created to support later analysis, including Valid Arrivals, Delay Change (min), and binary indicators for Punctuality (Arrival and Departure).
 
 ---
 
 ## Data Modeling
 
-The dataset was structured into a **Star Schema**, consisting of one fact table (train delay events) and two dimension tables (Calendar and Location).  
+The dataset was structured into a Star Schema, consisting of one fact table (train delay events) and two dimension tables (Calendar and Location).  
 
 A dedicated calendar table was created using DAX to enable time-based analysis across days of the week and time-of-day segments. During this process, an issue was identified where datetime values were incorrectly used in relationships, requiring adjustments to ensure proper alignment between date and time granularity.
 
@@ -43,17 +43,17 @@ A separate measures table was created to organize all DAX calculations. These me
 
 Average Delay (minutes), Average Delay Change, Punctuality (%), Delay Rate (> 6 minutes), High-Impact Delays (>10 minutes), and Total Trips.
 
-In addition, a **simulated cost model** was implemented, assigning €50 per minute of delay. This enabled the calculation of **Average Delay Cost per Station**, allowing operational performance to be interpreted in financial terms.
+In addition, a simulated cost model was implemented, assigning €50 per minute of delay. This enabled the calculation of Average Delay Cost per Station, allowing operational performance to be interpreted in financial terms.
 
 ---
 
 ## Report Design and Interaction
 
-The report consists of **two pages**, each designed to present a different analytical perspective.  
+The report consists of two pages, each designed to present a different analytical perspective.  
 Unlike dashboards, these pages are part of a structured Power BI report.
 
 Across both pages, three global filters are applied:
-**Station Category**, **State (Bundesland)**, and **Day Type (Weekday vs Weekend)**.  
+Station Category, State (Bundesland), and Day Type (Weekday vs Weekend).  
 These filters allow users to dynamically explore performance differences across regions, station types, and time structures.
 
 ---
@@ -100,7 +100,7 @@ The analysis reveals that high-volume regions, such as Munich, generate the larg
 
 Delays are strongly concentrated during peak commuting periods, particularly weekday afternoons and evenings. This indicates that timing plays a significant role in operational strain.
 
-From a financial perspective, the results show that impact is driven more by **volume and consistency** than by extreme individual delays.
+From a financial perspective, the results show that impact is driven more by volume and consistency than by extreme individual delays.
 
 ---
 
@@ -122,7 +122,7 @@ This project demonstrates end-to-end data analysis in Power BI, from data prepar
 
 Although the dataset covers only one week, the use of a DAX-driven calendar enabled analysis across different times of day and weekdays, allowing for meaningful comparisons between regions and major cities.
 
-Rather than focusing solely on average delays, the analysis emphasizes **business impact**. A simulated cost model (€50 per delay minute) was introduced to highlight how operational performance translates into financial consequences.
+Rather than focusing solely on average delays, the analysis emphasizes business impact. A simulated cost model (€50 per delay minute) was introduced to highlight how operational performance translates into financial consequences.
 
 The results show a key distinction: while smaller regional stations exhibit higher average delays, their overall financial impact remains limited. In contrast, large metropolitan areas such as Munich generate significantly higher total costs due to high traffic volume.
 
